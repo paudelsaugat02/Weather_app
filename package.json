@@ -1,0 +1,17 @@
+{
+  "name": "weather-report",
+  "version": "1.0.0",
+  "description": "Weather Project",
+  "main": "weather.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "OK"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
